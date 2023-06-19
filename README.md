@@ -15,11 +15,11 @@ Para acompanhar o tutorial da construção desse aplicativo, eu gravei um video 
 - Detalhes das notícias, incluindo título, descrição, autor e data de publicação.
 
 ## Como Executar o Aplicativo
-Clone este repositório para o seu ambiente de desenvolvimento local.
-Importe o projeto em sua IDE preferida (como o Android Studio).
-Aguarde a sincronização das dependências do projeto.
-Execute o aplicativo em um dispositivo Android ou em um emulador.
-Certifique-se de ter o Android SDK configurado corretamente e uma versão compatível do Android instalada.
+- Clone este repositório para o seu ambiente de desenvolvimento local.
+- Importe o projeto em sua IDE preferida (como o Android Studio).
+- Aguarde a sincronização das dependências do projeto.
+- Execute o aplicativo em um dispositivo Android ou em um emulador.
+- Certifique-se de ter o Android SDK configurado corretamente e uma versão compatível do Android instalada.
 
 
 ## Licença
