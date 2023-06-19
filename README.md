@@ -1,6 +1,5 @@
 # App de Notícias com Jetpack Compose e API do New York Times
-![thumb apeluda](https://youtu.be/cFmj3j048bk)
-
+![thumb apeluda](https://github.com/BrooitsFeiskJR/news-app-jetpack-compose-yt/assets/100232576/e7f17329-762b-42cd-b012-b407633eefc8)
 
 Este repositório contém o código-fonte completo de um aplicativo de notícias desenvolvido em Android nativo utilizando o Jetpack Compose e consumindo a API do New York Times. O objetivo deste projeto é demonstrar a criação de uma interface moderna e dinâmica, bem como a integração com uma API externa para exibir as últimas notícias em tempo real. 
 
